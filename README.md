@@ -1,4 +1,4 @@
-# Learn Chaincode
+# Learn Chaincode - Fintan
 
 A tutorial to get you started with writing smart contracts for Hyperledger.
 
